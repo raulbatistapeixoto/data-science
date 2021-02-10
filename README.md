@@ -9,4 +9,4 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science e Ma
 Lista de projetos em Jupyter Notebook:
 
 * **Como implementar uma Regressão Linear com o Scikit-learn:** https://bit.ly/3j0UgEo
-
+* **Análise do conjunto de dados de íris:** https://bityli.com/lr8Le
